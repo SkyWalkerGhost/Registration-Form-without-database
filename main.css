@@ -1,0 +1,43 @@
+<style>
+
+*{
+    paddind:0px;
+    margin:0px;
+}
+
+body{
+    background-image:url(http://tyip2.com/scenery.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+  
+   
+}
+.container{
+    background:#dc3545;
+    color:white;
+    margin-top:100px;
+    width:50%;
+    transparent:0.2;
+   
+   
+}
+
+h1{
+  text-align:center;
+}
+
+#btn{
+  margin-bottom:50px;
+  width:50%;
+  background: black;
+  border: none;
+ 
+}
+
+span{
+  color:black;
+  text-align:center;
+ 
+}
+</style>
